@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bio Medidas</string>
+    <string name="welcome_message">Bem vindo ao Bio Medidas</string>
+    <string name="new_patient">Novo cadastro</string>
+    <string name="saved_files">Pacientes cadastrados</string>
+
+
+</resources>
